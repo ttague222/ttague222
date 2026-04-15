@@ -12,7 +12,7 @@ Technical PM with 8+ years leading B2B SaaS products. I also run **[Watchlight I
 |-----|-------------|----------|-------|
 | [PlayNxt](https://github.com/ttague222/PlayNext) | AI game recommendations based on your mood & time available | [![App Store](https://img.shields.io/badge/App_Store-000000?style=flat&logo=apple&logoColor=white)](https://apps.apple.com/us/app/playnxt-game-recommendations/id6757089064) [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.playnxt.app) | Python · FastAPI · React Native |
 | [PlayBeacon](https://github.com/ttague222/PlayBeacon-Mobile) | Roblox game discovery platform for families | [![App Store](https://img.shields.io/badge/App_Store-000000?style=flat&logo=apple&logoColor=white)](https://apps.apple.com/us/app/playbeacon/id6756545114) [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.playbeacon.app) | React Native · Firebase · Node.js |
-| [PlayCompass](https://github.com/ttague222/PlayCompass) | Helps parents find fun, engaging activities for their kids | Android | JavaScript · Python · Firebase |
+| [PlayCompass](https://github.com/ttague222/PlayCompass) | Helps parents find fun, engaging activities for their kids | [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.playcompass.app) | JavaScript · Python · Firebase |
 | [PlayBeacon PoC](https://github.com/ttague222/playbeacon-poc) | Prototype validating AI recommendation engine with vector search | — | FastAPI · pgvector · OpenAI |
 
 ---
