@@ -19,8 +19,8 @@ Technical PM with 8+ years leading B2B SaaS products. I also run **[Watchlight I
 
 ## Day Job
 
-**Senior Product Manager @ [Acquia](https://www.acquia.com)**  
-Enterprise digital experience management · 300K+ users · $12M+ revenue impact
+**Product Manager II @ [First American](https://www.firstam.com)**
+Originations business line · Open API ecosystem · Onboarding banks & credit unions onto property data infrastructure
 
 ---
 
