@@ -17,6 +17,14 @@ Technical PM with 8+ years leading B2B SaaS products. I also run **[Watchlight I
 
 ---
 
+## Featured Work
+
+**[RailWatch — Payment Operations Monitor](https://github.com/ttague222/Railwatch-Payment-Ops-Monitor)**
+A real-time dashboard for community bank payments operations — unified view across ACH, wire, RTP, and FedNow rails. Built as a technical assessment for Nymbus. Live at [railwatch-payment-ops-monitor.vercel.app](https://railwatch-payment-ops-monitor.vercel.app).
+`React · TypeScript · Vite · Vercel · REST APIs`
+
+---
+
 ## Day Job
 
 **Product Manager II @ [First American](https://www.firstam.com)**
@@ -27,6 +35,7 @@ Originations business line · Open API ecosystem · Onboarding banks & credit un
 ## Tech I Work With
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
