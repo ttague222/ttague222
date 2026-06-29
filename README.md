@@ -6,7 +6,7 @@ Technical Product Manager who ships. ~5 years managing B2B SaaS products (Acquia
 First American), built on 4 years as a software engineer, so I genuinely understand every layer
 of the stack, and I still work in all of them. By night I run
 **[Watchlight Interactive](https://watchlightinteractive.com)**, an indie studio where I design,
-build, and ship production apps end to end. **Six products live across the App Store, Google Play,
+build, and ship production apps end to end. **Four products live across the App Store, Google Play,
 and Roblox.**
 
 ---
