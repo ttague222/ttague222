@@ -2,17 +2,23 @@
 
 > I build products by day and ship apps by night.
 
-Technical PM with 8+ years leading B2B SaaS products. I also run **[Watchlight Interactive](https://watchlightinteractive.com)** — an indie studio where I design, build, and ship production mobile apps. I believe the best PMs understand every layer of the stack.
+Technical Product Manager who ships. ~5 years managing B2B SaaS products (Acquia, then
+First American), built on 4 years as a software engineer — so I genuinely understand every layer
+of the stack, and I still work in all of them. By night I run
+**[Watchlight Interactive](https://watchlightinteractive.com)**, an indie studio where I design,
+build, and ship production apps end to end. **Six products live across the App Store, Google Play,
+and Roblox.**
 
 ---
 
-## Watchlight Interactive
+## Watchlight Interactive — shipped products
 
-| App | What it does | Download | Stack |
-|-----|-------------|----------|-------|
+| App | What it does | Live | Stack |
+|-----|-------------|------|-------|
 | [PlayNxt](https://github.com/ttague222/PlayNext) | AI game recommendations based on your mood & time available | [![App Store](https://img.shields.io/badge/App_Store-000000?style=flat&logo=apple&logoColor=white)](https://apps.apple.com/us/app/playnxt-game-recommendations/id6757089064) [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.playnxt.app) | Python · FastAPI · React Native |
-| [PlayBeacon](https://github.com/ttague222/PlayBeacon-Mobile) | Roblox game discovery platform for families | [![App Store](https://img.shields.io/badge/App_Store-000000?style=flat&logo=apple&logoColor=white)](https://apps.apple.com/us/app/playbeacon/id6756545114) [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.playbeacon.app) | React Native · Firebase · Node.js |
+| [PlayBeacon](https://github.com/ttague222/PlayBeacon-Mobile) | Discover fresh Roblox games — collection & sticker rewards, built for teens & Roblox players | [![App Store](https://img.shields.io/badge/App_Store-000000?style=flat&logo=apple&logoColor=white)](https://apps.apple.com/us/app/playbeacon/id6756545114) [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.playbeacon.app) | React Native · Firebase · Node.js |
 | [PlayCompass](https://github.com/ttague222/PlayCompass) | Helps parents find fun, engaging activities for their kids | [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.playcompass.app) | JavaScript · Python · Firebase |
+| [Room Rumble](https://github.com/ttague222/room-rumble) | Multiplayer room-decorating competition — live on Roblox | [![Roblox](https://img.shields.io/badge/Play_on-Roblox-00A2FF?style=flat&logo=roblox&logoColor=white)](https://www.roblox.com/games/72055813457449) | Rojo · Luau |
 | [PlayBeacon PoC](https://github.com/ttague222/playbeacon-poc) | Prototype validating AI recommendation engine with vector search | — | FastAPI · pgvector · OpenAI |
 | [StoryScout](https://github.com/ttague222/StoryScout) | POC — AI-powered story and book discovery app | — | React Native · Python · Firebase |
 
@@ -21,7 +27,10 @@ Technical PM with 8+ years leading B2B SaaS products. I also run **[Watchlight I
 ## Featured Work
 
 **[RailWatch — Payment Operations Monitor](https://github.com/ttague222/Railwatch-Payment-Ops-Monitor)**
-A real-time dashboard for community bank payments operations — unified view across ACH, wire, RTP, and FedNow rails. Built as a technical assessment for Nymbus. Live at [railwatch-payment-ops-monitor.vercel.app](https://railwatch-payment-ops-monitor.vercel.app).
+A self-directed fintech build: a real-time operations dashboard for community-bank payments teams —
+one unified view across ACH, wire, RTP, and FedNow rails, with exception queues, settlement tracking,
+and live market context. Built spec-first with a clean DataProvider architecture ready for core-banking
+integration. Live demo: [railwatch-payment-ops-monitor.vercel.app](https://railwatch-payment-ops-monitor.vercel.app).
 `React · TypeScript · Vite · Vercel · REST APIs`
 
 ---
@@ -29,7 +38,8 @@ A real-time dashboard for community bank payments operations — unified view ac
 ## Day Job
 
 **Product Manager II @ [First American](https://www.firstam.com)**
-Originations business line · Open API ecosystem · Onboarding banks & credit unions onto property data infrastructure
+Originations business line · Open API ecosystem · Onboarding banks & credit unions onto property
+data infrastructure
 
 ---
 
